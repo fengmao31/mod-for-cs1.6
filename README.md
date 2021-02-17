@@ -62,6 +62,7 @@ bind "KP_DOWNARROW" "deagle;vesthelm;vest;secammo;hegren;flash;flash;sgren;defus
 Deagle套装
 
 http://www.paopaoche.net/gonglue/41868.html
+
 http://games.sina.com.cn/z/cs/2004-04-21/128140.shtml
 
 # 被垃圾服务器篡改
