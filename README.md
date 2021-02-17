@@ -25,7 +25,7 @@ https://www.battlemetrics.com/servers/cs
 
 右键connect可以使用正版steam的cs1.6连接此服务器，之后从历史记录中收藏至我的喜爱便可以了
 
-或者非正版也可以在我的喜爱里面点击添加服务器手动添加地址114.225.36.230:27015
+或者非正版也可以在我的喜爱里面点击添加服务器手动添加地址114.225.36.230:27015或者cs2000.f3322.net:27015 
 
 https://www.battlemetrics.com/servers/cs/9914663
 
