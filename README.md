@@ -1,1 +1,68 @@
 # mod-for-cs1.6
+
+# 需求
+由于中国人们计算机基础较差，加上国内资本垄断，导致游戏世界尤为混乱。导致cs1.6不止从何时开始竟然找不到带机器人版本以及可靠的联机版本。
+
+# 论坛
+点通论坛较为可靠https://dt-club.net/forum-98-1.html
+
+# Master Server
+master server是用于配置服务器搜索
+
+https://www.battlemetrics.com/servers/cs
+
+# 推荐服务器
+
+经典CS1.6休闲养老服[江苏电信]
+
+右键connect可以使用正版steam的cs1.6连接此服务器，之后从历史记录中收藏至我的喜爱便可以了
+
+或者非正版也可以在我的喜爱里面点击添加服务器手动添加地址114.224.11.58:27015
+
+https://www.battlemetrics.com/servers/cs/9914663
+
+# 绑定一键买枪
+一键买枪一般有两种方法
+
+一是在游戏中设置：
+
+在游戏设置里面键盘选项卡（一般默认的功能键区，就是F1到F8都可以买武器套装）
+
+但是对于正版游戏或者一些其他的版本中没有设置的选项，这就需要玩家们用到一键买枪的脚本了。下面是具体的操作方法：
+
+打开游戏安装目录，用记事本打开cstrike文件夹里的config.cfg文件，在最底部加上exec userconfig.cfg，然后在cstrike文件夹里新建一个userconfig.cfg，再把以下参数黏贴进去保存即可。
+
+bind "F1" "m4a1;ak47;vesthelm;vest;primammo;hegren;flash;flash;sgren;defuser;secammo;"
+M4/AK套装
+
+bind "F2" "awp;deagle;vesthelm;vest;secammo;buyammo1;hegren;flash;sgren;flash;defuser;"
+AWP套装
+
+bind "F3" "famas;galil;vesthelm;vest;primammo;hegren;flash;flash;sgren;defuser;secammo;"
+Famas/Galil套装
+
+bind "F4" "aug;sg552;vesthelm;vest;primammo;hegren;flash;flash;defuser;secammo;"
+AUG/Sg522套装
+
+bind "F5" "m4a1;ak47;deagle;vesthelm;vest;primammo;hegren;flash;flash;sgren;defuser;secammo;"
+M4/AK+Deagle套装
+
+bind "KP_5" "mp5;vesthelm;vest;primammo;hegren;flash;flash;sgren;defuser;secammo;"
+MP5套装
+
+bind "KP_DOWNARROW" "deagle;vesthelm;vest;secammo;hegren;flash;flash;sgren;defuser;secammo;"
+Deagle套装
+
+http://www.paopaoche.net/gonglue/41868.html
+http://games.sina.com.cn/z/cs/2004-04-21/128140.shtml
+
+# 被垃圾服务器篡改
+根据修改文件查看什么被改了，试着改回来，或者重新覆盖安装。
+
+把重要文件设置成只读。
+
+可以上点通论坛安装可靠的刷服务器补丁master server，同时过滤掉垃圾服务器。玩游戏的时候去一些可靠的服务器，不要去一些乱七八糟的服务器。
+
+http://www.goqoq.com/cs16liumangserver.html
+
+
