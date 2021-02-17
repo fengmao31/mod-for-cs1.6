@@ -4,7 +4,9 @@
 由于中国人们计算机基础较差，加上国内资本垄断，导致游戏世界尤为混乱。导致cs1.6不止从何时开始竟然找不到带机器人版本以及可靠的联机版本。
 
 # 论坛
-点通论坛较为可靠https://dt-club.net/forum-98-1.html
+点通论坛较为可靠
+
+https://dt-club.net/forum-98-1.html
 
 # Master Server
 master server是用于配置服务器搜索
