@@ -11,7 +11,7 @@ https://dt-club.net/forum-98-1.html
 # Master Server
 master server是用于配置服务器搜索
 
-下载MasterServers.vdf放入\ platform \ config \中，也可以查找单个服务器，但是该网站太老了，很多地址比较旧。有些国外服务器虽然ping表面很低，实际上游戏里经常卡顿。
+下载MasterServers.vdf放入\platform\config\中，也可以查找单个服务器，但是该网站太老了，很多地址比较旧。有些国外服务器虽然ping表面很低，实际上游戏里经常卡顿。
 
 http://css.setti.info/masterserver/masterserver-instructions/
 
