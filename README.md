@@ -9,7 +9,7 @@
 # Master Server
 master server是用于配置服务器搜索
 
-下载MasterServers.vdf放入\ platform \ config \中，也可以查找单个服务器
+下载MasterServers.vdf放入\ platform \ config \中，也可以查找单个服务器，但是该网站太老了，很多地址比较旧。
 
 http://css.setti.info/masterserver/masterserver-instructions/
 
