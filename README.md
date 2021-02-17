@@ -9,6 +9,12 @@
 # Master Server
 master server是用于配置服务器搜索
 
+下载MasterServers.vdf放入\ platform \ config \中，也可以查找单个服务器
+
+http://css.setti.info/masterserver/masterserver-instructions/
+
+查找单个服务器
+
 https://www.battlemetrics.com/servers/cs
 
 # 推荐服务器
