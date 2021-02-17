@@ -11,7 +11,7 @@ https://dt-club.net/forum-98-1.html
 # Master Server
 master server是用于配置服务器搜索
 
-下载MasterServers.vdf放入\ platform \ config \中，也可以查找单个服务器，但是该网站太老了，很多地址比较旧。
+下载MasterServers.vdf放入\ platform \ config \中，也可以查找单个服务器，但是该网站太老了，很多地址比较旧。有些国外服务器虽然ping表面很低，实际上游戏里经常卡顿。
 
 http://css.setti.info/masterserver/masterserver-instructions/
 
@@ -79,3 +79,5 @@ http://www.goqoq.com/cs16liumangserver.html
 
 # 问题
 似乎因为老版本的cs1.6无法进入新版本的cs1.6的服务器，加上太多垃圾服务器，所以推荐买个正版，然后再添加服务器比较方便。或者加入一些社区和讨论组能够搞到纯净的新版cs1.6。现在的游戏社区都被一些垃圾搞坏了，也是因为在中国游戏发展畸形的原因，导致大量人赚不到钱，才动了歪心思。
+
+外国cs1.6版本无法连接到中国cs1.6服务器，很多网站提供的MasterServer不包括中国服务器。
