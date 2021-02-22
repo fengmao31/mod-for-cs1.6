@@ -42,7 +42,7 @@ https://www.battlemetrics.com/servers/cs/9914663
 
 打开游戏安装目录，用记事本打开cstrike文件夹里的config.cfg文件，在最底部加上exec userconfig.cfg，然后在cstrike文件夹里新建一个userconfig.cfg，再把以下参数黏贴进去保存即可。
 
-学习版玩家直接复制下面参数进config.cfg文件即可。正版steam会保护config.cfg文件。
+学习版玩家直接复制下面参数进config.cfg文件即可。因为正版steam会保护config.cfg文件。
 
 bind "F1" "deagle;vesthelm;vest;secammo;hegren;flash;flash;sgren;defuser;secammo;"
 Deagle套装
