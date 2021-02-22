@@ -1,5 +1,6 @@
 # 按键
 config.cfg已经绑定按键复制到Esai Cs1.6中文版(3248)\cstrike_schinese覆盖
+## 正版不需要改动config.cfg,复制userconfig.cfg到cstrike目录下即可
 # 主服务器
 MasterServers.vdf是从国外的主服务器网站下载，虽然有很多服务器，但是很多都是病毒，会篡改cs1.6文件。
 # 备注
