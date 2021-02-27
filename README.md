@@ -31,6 +31,12 @@ https://www.battlemetrics.com/servers/cs/9914663
 ## 华东经典cs1.6战斗服
 42.192.209.200:27015
 
+## 5eplay
+
+5eplay的约战服务器
+
+http://vs.5eplay.com/
+
 # 绑定一键买枪
 一键买枪一般有两种方法
 
