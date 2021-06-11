@@ -245,4 +245,6 @@ B51-M249 重机枪 100发子弹+NB的威力 枪下冤魂无数
 ## 参考文献
 https://www.te5.com/csgo/2016/120937.html
 
+https://steamcommunity.com/sharedfiles/filedetails/?id=406597244
+
 https://zhidao.baidu.com/question/53433341.html
