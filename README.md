@@ -40,35 +40,44 @@ http://vs.5eplay.com/
 # 绑定一键买枪
 一键买枪一般有两种方法
 
-一是在游戏中设置：
+## 游戏中设置
 
 在游戏设置里面键盘选项卡（一般默认的功能键区，就是F1到F8都可以买武器套装）
 
-但是对于正版游戏或者一些其他的版本中没有设置的选项，这就需要玩家们用到一键买枪的脚本了。下面是具体的操作方法：
+## 游戏脚本
+
+正版游戏或者一些其他的版本中没有设置的选项，这就需要玩家们用到一键买枪的脚本了。下面是具体的操作方法：
 
 打开游戏安装目录，用记事本打开cstrike文件夹里的config.cfg文件，在最底部加上exec userconfig.cfg，然后在cstrike文件夹里新建一个userconfig.cfg，再把以下参数黏贴进去保存即可。
 
 学习版玩家直接复制下面参数进config.cfg文件即可。因为正版steam会保护config.cfg文件。
 
 bind "F1" "fiveseven;Eltie;vesthelm;vest;secammo;hegren;flash;flash;sgren;defuser;secammo;"
+
 Deagle套装
 
 bind "F2" "p90;fiveseven;Eltie;vesthelm;vest;primammo;hegren;flash;flash;sgren;defuser;secammo;"
+
 p90套装
 
 bind "F3" "xm1014;fiveseven;Eltie;vesthelm;vest;primammo;hegren;flash;flash;sgren;defuser;secammo;"
+
 xm1014套装
 
 bind "F4" "famas;galil;fiveseven;Eltie;vesthelm;vest;primammo;hegren;flash;flash;sgren;defuser;secammo;"
+
 Famas/Galil套装
 
 bind "F5" "m4a1;ak47;fiveseven;Eltie;vesthelm;vest;primammo;hegren;flash;flash;sgren;defuser;secammo;"
+
 M4/AK+Deagle套装
 
 bind "F6" "aug;sg552;fiveseven;vesthelm;vest;primammo;hegren;flash;flash;sgrendefuser;secammo;"
+
 AUG/Sg522套装
 
 bind "F7" "awp;fiveseven;vesthelm;vest;secammo;buyammo1;hegren;flash;sgren;flash;sgren;defuser;secammo"
+
 AWP套装
 
 http://www.paopaoche.net/gonglue/41868.html
