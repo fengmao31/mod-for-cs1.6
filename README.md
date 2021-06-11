@@ -50,25 +50,25 @@ http://vs.5eplay.com/
 
 学习版玩家直接复制下面参数进config.cfg文件即可。因为正版steam会保护config.cfg文件。
 
-bind "F1" "deagle;vesthelm;vest;secammo;hegren;flash;flash;sgren;defuser;secammo;"
+bind "F1" "fiveseven;Eltie;vesthelm;vest;secammo;hegren;flash;flash;sgren;defuser;secammo;"
 Deagle套装
 
-bind "F2" "mp5;vesthelm;vest;primammo;hegren;flash;flash;sgren;defuser;secammo;"
-MP5套装
+bind "F2" "p90;fiveseven;Eltie;vesthelm;vest;primammo;hegren;flash;flash;sgren;defuser;secammo;"
+p90套装
 
-bind "F3" "famas;galil;vesthelm;vest;primammo;hegren;flash;flash;sgren;defuser;secammo;"
+bind "F3" "xm1014;fiveseven;Eltie;vesthelm;vest;primammo;hegren;flash;flash;sgren;defuser;secammo;"
+xm1014套装
+
+bind "F4" "famas;galil;fiveseven;Eltie;vesthelm;vest;primammo;hegren;flash;flash;sgren;defuser;secammo;"
 Famas/Galil套装
 
-bind "F4" "m4a1;ak47;vesthelm;vest;primammo;hegren;flash;flash;sgren;defuser;secammo;"
-M4/AK套装
-
-bind "F5" "m4a1;ak47;deagle;vesthelm;vest;primammo;hegren;flash;flash;sgren;defuser;secammo;"
+bind "F5" "m4a1;ak47;fiveseven;Eltie;vesthelm;vest;primammo;hegren;flash;flash;sgren;defuser;secammo;"
 M4/AK+Deagle套装
 
-bind "F6" "aug;sg552;vesthelm;vest;primammo;hegren;flash;flash;defuser;secammo;"
+bind "F6" "aug;sg552;fiveseven;vesthelm;vest;primammo;hegren;flash;flash;sgrendefuser;secammo;"
 AUG/Sg522套装
 
-bind "F7" "awp;deagle;vesthelm;vest;secammo;buyammo1;hegren;flash;sgren;flash;defuser;"
+bind "F7" "awp;fiveseven;vesthelm;vest;secammo;buyammo1;hegren;flash;sgren;flash;sgren;defuser;secammo"
 AWP套装
 
 http://www.paopaoche.net/gonglue/41868.html
@@ -92,3 +92,136 @@ http://www.goqoq.com/cs16liumangserver.html
 似乎因为老版本的cs1.6无法进入新版本的cs1.6的服务器，加上太多垃圾服务器，所以推荐买个正版，然后再添加服务器比较方便。或者加入一些社区和讨论组能够搞到纯净的新版cs1.6。现在的游戏社区都被一些垃圾搞坏了，也是因为在中国游戏发展畸形的原因，导致大量人赚不到钱，才动了歪心思。
 
 外国cs1.6版本无法连接到中国cs1.6服务器，很多网站提供的MasterServer不包括中国服务器。
+
+#枪支名称对照表
+CS:GO枪械基础绑定指令格式如下：
+
+bind + 键位名称 + "buy 枪械名称" (输入时无需添加"+"号)
+
+小键盘键位名称及对应键位表：
+
+kp_slash (对应键位 "/")
+
+kp_multiply (对应键位 "*")
+
+kp_minus (对应键位 "-")
+
+kp_home (对应键位 "7")
+
+kp_uparrow (对应键位 "8")
+
+kp_pgup (对应键位 "9")
+
+kp_leftarrow (对应键位 "4")
+
+kp_5 (对应键位 "5")
+
+kp_rightarrow (对应键位 "6")
+
+kp_end (对应键位 "1")
+
+kp_downarrow (对应键位 "2")
+
+kp_pgdn (对应键位 "3")
+
+kp_ins (对应键位 "0")
+
+kp_del (对应键位 ".")
+
+kp_plus (对应键位 "+")
+
+kp_enter (对应键位 "Enter")
+
+CSGO枪械名称及对应指令大全(括号里为控制台所对应的枪械名称)
+
+步枪：
+
+Scout (ssg08)
+
+Galil (galilar)
+
+Famas (famas)
+
+SG550 (sg550)
+
+AUG (aug)
+
+M4 (m4a1)
+
+AK47 (ak47)
+
+T专用步枪 (g3sg1)
+
+CT专用步枪 (scar20)
+
+AWP (awp)
+
+冲锋枪：
+
+Mac 10 (mac10)
+
+UMP (ump45)
+
+P90 (p90)
+
+Bizon (bizon)
+
+MP7 (mp7)
+
+MP9 (mp9)
+
+霰弹枪：
+
+Auto Shotgun (xm1014)
+
+Mag7 (mag7)
+
+Sawed Off Shotgun (sawedoff)
+
+Nova Shotgun (nova)
+
+M249 (m249)
+
+Negev (negev)
+
+手枪：
+
+228 Compact (p228)
+
+Glock (glock)
+
+Dual Elites (elite)
+
+Five Seven (fiveseven)
+
+Desert Eagle (deagle)
+
+Tec9 (tec9)
+
+HKP2000 (hkp2000)
+
+P250 (p250)
+
+手雷及装备：
+
+Incendiary Grenade (incgrenade)
+
+Flashbang (flashbang)
+
+Smoke (smokegrenade)
+
+HE Grenade (hegrenade)
+
+Molotov (molotov)
+
+Decoy (decoy)
+
+Kevlar (kevlar)
+
+Kevlar+Helmet (vesthelm)
+
+Zeus x27 (taser)
+
+Defuse Kit (defuser)
+
+参考文献：https://www.te5.com/csgo/2016/120937.html
