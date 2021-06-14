@@ -257,3 +257,5 @@ https://www.te5.com/csgo/2016/120937.html
 https://steamcommunity.com/sharedfiles/filedetails/?id=406597244
 
 https://zhidao.baidu.com/question/53433341.html
+
+https://counterstrike.fandom.com/wiki/Counter-Strike
