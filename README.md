@@ -52,13 +52,13 @@ http://vs.5eplay.com/
 
 学习版玩家直接复制下面参数进config.cfg文件即可。因为正版steam会保护config.cfg文件。
 
-bind "F1" "fiveseven;elites;vesthelm;vest;secammo;hegren;flash;flash;sgren;defuser;secammo;"
+bind "F1" "fiveseven;elites;vesthelm;vest;primammo;hegren;flash;flash;sgren;defuser;secammo;"
 
 Deagle套装
 
-bind "F2" "p90;fiveseven;elites;vesthelm;vest;primammo;hegren;flash;flash;sgren;defuser;secammo;"
+bind "F2" "mac10;fiveseven;elites;vesthelm;vest;primammo;hegren;flash;flash;sgren;defuser;secammo;"
 
-p90套装
+mac10套装
 
 bind "F3" "xm1014;fiveseven;elites;vesthelm;vest;primammo;hegren;flash;flash;sgren;defuser;secammo;"
 
@@ -166,7 +166,7 @@ Dual Elites (elites)
 
 Five Seven (fiveseven)
 
-Desert Eagle (deagle)
+Desert Eagle ()
 
 Tec9 (tec9)
 
