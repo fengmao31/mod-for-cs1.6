@@ -52,7 +52,7 @@ http://vs.5eplay.com/
 
 学习版玩家直接复制下面参数进config.cfg文件即可。因为正版steam会保护config.cfg文件。
 
-bind "F1" "fiveseven;elites;vesthelm;vest;primammo;hegren;flash;flash;sgren;defuser;secammo;"
+bind "F1" "fiveseven;elites;vesthelm;vest;secammo;hegren;flash;flash;sgren;defuser;secammo;"
 
 Deagle套装
 
