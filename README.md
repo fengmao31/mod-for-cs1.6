@@ -58,7 +58,7 @@ bind "F1" "deagle;vesthelm;vest;primammo;hegren;flash;flash;sgren;defuser;secamm
 Deagle
 
 bind "F2" "mp5;deagle;vesthelm;vest;primammo;hegren;flash;flash;sgren;defuser;secammo;"
-p90
+mp5
 
 bind "F3" "xm1014;deagle;vesthelm;vest;primammo;hegren;flash;flash;sgren;defuser;secammo;"
 xm1014
