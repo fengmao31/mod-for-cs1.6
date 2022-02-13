@@ -52,6 +52,8 @@ http://vs.5eplay.com/
 
 学习版玩家直接复制下面参数进config.cfg文件即可。因为正版steam会保护config.cfg文件。
 
+注意：由于markdown语法问题。如果直接复制下面脚本包含隐藏的回车符号。应该在text文本中删除其中的回车符号。
+
 bind "F1" "fiveseven;elites;vesthelm;vest;secammo;hegren;flash;flash;sgren;defuser;secammo;"
 
 Deagle套装
