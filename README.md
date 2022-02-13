@@ -52,35 +52,28 @@ http://vs.5eplay.com/
 
 学习版玩家直接复制下面参数进config.cfg文件即可。因为正版steam会保护config.cfg文件。
 
-注意：由于markdown语法问题。如果直接复制下面脚本包含隐藏的回车符号。应该在text文本中删除其中的回车符号。
+注意：bind语句和下面的套装名称之间不能有空行。
 
-bind "F1" "fiveseven;elites;vesthelm;vest;secammo;hegren;flash;flash;sgren;defuser;secammo;"
+bind "F1" "deagle;vesthelm;vest;primammo;hegren;flash;flash;sgren;defuser;secammo;"
+Deagle
 
-Deagle套装
+bind "F2" "mp5;deagle;vesthelm;vest;primammo;hegren;flash;flash;sgren;defuser;secammo;"
+p90
 
-bind "F2" "mac10;fiveseven;elites;vesthelm;vest;primammo;hegren;flash;flash;sgren;defuser;secammo;"
+bind "F3" "xm1014;deagle;vesthelm;vest;primammo;hegren;flash;flash;sgren;defuser;secammo;"
+xm1014
 
-mac10套装
+bind "F4" "famas;galil;deagle;vesthelm;vest;primammo;hegren;flash;flash;sgren;defuser;secammo;"
+Famas/Galil
 
-bind "F3" "xm1014;fiveseven;elites;vesthelm;vest;primammo;hegren;flash;flash;sgren;defuser;secammo;"
+bind "F5" "m4a1;ak47;deagle;vest;primammo;hegren;flash;flash;sgren;defuser;secammo;"
+M4/AK+Deagle
 
-xm1014套装
+bind "F6" "aug;sg552;deagle;vesthelm;vest;primammo;hegren;flash;flash;sgrendefuser;secammo;"
+AUG/Sg522
 
-bind "F4" "famas;galil;fiveseven;elites;vesthelm;vest;primammo;hegren;flash;flash;sgren;defuser;secammo;"
-
-Famas/Galil套装
-
-bind "F5" "m4a1;ak47;fiveseven;elites;vesthelm;vest;primammo;hegren;flash;flash;sgren;defuser;secammo;"
-
-M4/AK+Deagle套装
-
-bind "F6" "aug;sg552;fiveseven;elites;vesthelm;vest;primammo;hegren;flash;flash;sgrendefuser;secammo;"
-
-AUG/Sg522套装
-
-bind "F7" "awp;fiveseven;elites;vesthelm;vest;secammo;buyammo1;hegren;flash;sgren;flash;sgren;defuser;secammo"
-
-AWP套装
+bind "F7" "awp;deagle;vesthelm;vest;secammo;buyammo1;hegren;flash;sgren;flash;sgren;defuser;secammo"
+AWP
 
 http://www.paopaoche.net/gonglue/41868.html
 
